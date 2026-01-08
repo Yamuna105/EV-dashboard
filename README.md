@@ -31,4 +31,5 @@ Contains information on EV model year, state-wise distribution, manufacturer, CA
 - Demonstrates the impact of clean fuel incentives (CAFV) on adoption
 - Beginner-friendly project showcasing end-to-end Power BI workflow
 
- Dashboard Preview: {https://github.com/Yamuna105/EV-dashboard/blob/main/EV%20Image.png}
+Screenshots
+Show what the dashboard looks like: 
