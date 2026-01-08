@@ -32,4 +32,4 @@ Contains information on EV model year, state-wise distribution, manufacturer, CA
 - Beginner-friendly project showcasing end-to-end Power BI workflow
 
 Screenshots
-Show what the dashboard looks like: [https://github.com/Yamuna105/EV-dashboard/blob/main/EV%20Image.png]
+Show what the dashboard looks like: [https://raw.githubusercontent.com/Yamuna105/EV-dashboard/main/EV%20Image.png]
